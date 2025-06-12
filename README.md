@@ -191,11 +191,15 @@ Bu proje MIT lisansı altında lisanslanmıştır. Detaylar için `LICENSE` dosy
 - **CIFAR-10:** Benchmark veri seti
 - **PyTorch:** Derin öğrenme framework'ü
 
+
 ## 📞 İletişim
 
-Sorularınız için:
-- **GitHub Issues:** Bu repository üzerinden
-- **E-posta:** [email@example.com]
+🐛 **Bug Report**: GitHub Issues kullanın  
+💡 **Feature Request**: Discussions bölümünden önerinizi paylaşın  
+📧 **İletişim**: Repository sahibi ile iletişime geçin
+- E-posta: [mehmetaksoy49@gmail.com]
+
+
 
 ---
 
